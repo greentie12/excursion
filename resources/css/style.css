@@ -21,18 +21,25 @@ a,p {
 	margin: auto;
 	width: 50%;
 	
-} 
-
-/* video {
-	margin: 0 auto;
-	display: block;	
-} */
+}
 
 #iphone {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 } 
+
+#camp, #smallphone {
+	margin: auto; 
+	width: 75%;
+	padding: 10px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 .personal, .coming {
 	font-family: Verdana;
@@ -47,11 +54,6 @@ a,p {
 	font-size: 21px;
 	color: gray;
 	text-align: center;
-}
-
-img {
-	margin: 0 auto;
-	display: block;
 }
 
 #copyright {
